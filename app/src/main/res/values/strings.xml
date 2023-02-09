@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="totalquestion">Total Questions</string>
+    <string name="Ansfirst">Option A</string>
+    <string name="Anssecond">Option B</string>
+    <string name="Ansfourth">Option D</string>
+    <string name="Ansthird">Option C</string>
+    <string name="btn">Submit</string>
+</resources>
